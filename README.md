@@ -32,3 +32,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sakifmohaimen&" alt="sakifmohaimen" /></p>
 
 
+![](https://github-readme-stats.vercel.app/api?username=sakifmohaimen&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=sakifmohaimentheme=tokyonight&hide_border=false)<br/>
+
+
