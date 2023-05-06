@@ -10,6 +10,7 @@
 - 💬 Ask me about **data cleaning, data visualization, software development, game designing.**
 
 - 📫 How to reach me **sakifmohaimen10@gmail.com**
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
