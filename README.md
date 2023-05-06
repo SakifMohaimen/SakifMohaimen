@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SakifMohaimen?tab=repositories](https://github.com/SakifMohaimen?tab=repositories)
 
-- 💬 Ask me about **data cleaning, data visualization, software development, game designing,**
+- 💬 Ask me about **data cleaning, data visualization, software development, game designing.**
 
 - 📫 How to reach me **sakifmohaimen10@gmail.com**
 
@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakifmohaimen&show_icons=true&locale=en&layout=compact" alt="sakifmohaimen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakifmohaimen&show_icons=true&locale=en" alt="sakifmohaimen" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sakifmohaimen&show_icons=true&locale=en" alt="sakifmohaimen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakifmohaimen&" alt="sakifmohaimen" /></p>
