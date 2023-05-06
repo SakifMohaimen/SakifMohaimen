@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SakifMohaimen?tab=repositories](https://github.com/SakifMohaimen?tab=repositories)
 
-- 💬 Ask me about **data cleaning, data visualization, software development, game designing.**
+- 💬 Ask me about **data cleaning, data visualization, software development, game designing**
 
 - 📫 How to reach me **sakifmohaimen10@gmail.com**
 <hr>
