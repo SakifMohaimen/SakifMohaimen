@@ -24,11 +24,11 @@
 <hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sakifmohaimen&show_icons=true&locale=en" alt="sakifmohaimen" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sakifmohaimen&show_icons=true&locale=en" alt="sakifmohaimen" /></p>
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakifmohaimen&show_icons=true&locale=en&layout=compact" alt="sakifmohaimen" /></p><br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakifmohaimen&show_icons=true&locale=en&layout=compact" alt="sakifmohaimen" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sakifmohaimen&" alt="sakifmohaimen" /></p><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sakifmohaimen&" alt="sakifmohaimen" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakifmohaimen&label=Profile%20views&color=0e75b6&style=flat" alt="sakifmohaimen" /> </p>
+
