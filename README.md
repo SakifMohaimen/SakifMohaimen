@@ -29,5 +29,5 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakifmohaimen&label=Profile%20views&color=0e75b6&style=flat" alt="sakifmohaimen" /> </p>
+<p align="center">&nbsp; <img src="https://komarev.com/ghpvc/?username=sakifmohaimen&label=Profile%20views&color=0e75b6&style=flat" alt="sakifmohaimen" /> </p>
 
