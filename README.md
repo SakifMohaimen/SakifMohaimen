@@ -24,7 +24,7 @@
 <hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sakifmohaimen&show_icons=true&locale=en&theme=tokyonight" alt="sakifmohaimen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sakifmohaimen&show_icons=true&locale=en&theme=tokyonight" alt="sakifmohaimen" /></p><br/>
 
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakifmohaimen&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="sakifmohaimen" /></p><br/>
