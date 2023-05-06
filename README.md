@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakifmohaimen&label=Profile%20views&color=0e75b6&style=flat" alt="sakifmohaimen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakifmohaimen" alt="sakifmohaimen" /></a> </p>
-
 - 🌱 I’m currently learning **Manual testing and Automation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SakifMohaimen?tab=repositories](https://github.com/SakifMohaimen?tab=repositories)
