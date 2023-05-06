@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Sakif Al Mohaimen</h1>
-<h3 align="center">A passionate full stack developer as well as data analyst</h3>
+<h3 align="center">A passionate full stack developer as well as a data analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakifmohaimen&label=Profile%20views&color=0e75b6&style=flat" alt="sakifmohaimen" /> </p>
 
