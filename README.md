@@ -26,3 +26,6 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakifmohaimen&show_icons=true&locale=en&layout=compact" alt="sakifmohaimen" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sakifmohaimen&" alt="sakifmohaimen" /></p>
+<hr>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakifmohaimen&label=Profile%20views&color=0e75b6&style=flat" alt="sakifmohaimen" /> </p>
